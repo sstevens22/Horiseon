@@ -74,6 +74,31 @@ p {
 }
 /* hero ends */
 
+/* consolidated content section under the hero from here */
+.content {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.content-style {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+.content-style img {
+  max-height: 200px;
+}
+
+.content-style h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+/* to here*/
+
 /* benefit section begins and is consolidated */
 .benefits {
   margin-right: 20px;
@@ -102,31 +127,6 @@ p {
   max-width: 150px;
 }
 /* benefits end */
-
-/* consolidated content section under the hero from here */
-.content {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
-}
-
-.content-style {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-.content-style img {
-  max-height: 200px;
-}
-
-.content-style h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-/* to here*/
 
 /*footer begins*/
 .footer {
